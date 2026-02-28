@@ -1,0 +1,14 @@
+@import "../../../../style/project/base/appt.wxss";
+@import "../../skin/skin.wxss"; 
+@import "../../../../style/project/news_index_base.wxss";  
+page {
+	background-color: var(--projectCompareColor);
+}
+
+.load-project {
+	color: #333 !important;
+}
+
+.shadow-project {
+	box-shadow: 0 3rpx 16rpx rgba(114, 130, 138, 0.5);
+}

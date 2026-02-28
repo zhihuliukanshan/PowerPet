@@ -1,0 +1,24 @@
+@import "../../../../style/project/base/appt.wxss";
+@import "../../skin/skin.wxss";
+@import "../../../../style/project/default_index_base.wxss";
+
+page {
+	background-color: var(--projectCompareColor);
+}
+
+.up image {
+	width: 100%;
+	height: 550rpx;
+}
+
+.shadow-project {
+	box-shadow: unset
+}
+
+.load-project {
+	color: #fff !important
+}
+
+.menu .item {
+	width: 25%;
+}
